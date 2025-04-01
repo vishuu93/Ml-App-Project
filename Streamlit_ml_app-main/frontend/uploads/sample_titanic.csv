@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Age,Fare,Sex
+1,0,3,22.0,7.25,male
+2,1,1,38.0,71.28,female
+3,1,3,26.0,7.92,female
+4,1,1,35.0,53.1,female
+5,0,3,35.0,8.05,male
